@@ -1,0 +1,25 @@
+header {
+  background-color: white;
+  border-bottom: 1px solid grey;
+  display: inline-block;
+  height: 60px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  
+  #logo {
+    height: 20px;
+    padding: 20px 0;
+  }
+
+  nav {
+    
+    float: right;
+   
+    button {
+      height: 20px;
+      line-height: 20px;
+      margin: 20px 0;
+    }
+  }
+}
